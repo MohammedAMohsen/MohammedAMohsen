@@ -42,6 +42,7 @@ My study notes from courses, written in Arabic. They are learning material, not 
 | [python-course](https://github.com/MohammedAMohsen/python-course) | Python: 149 runnable lessons with verified output |
 | [mysql-course](https://github.com/MohammedAMohsen/mysql-course) | MySQL: 51 runnable SQL lessons |
 | [postgresql-course](https://github.com/MohammedAMohsen/postgresql-course) | PostgreSQL from fundamentals to advanced topics |
+| [docker-course](https://github.com/MohammedAMohsen/docker-course) | Docker: 7 hands-on examples, from a first Dockerfile to a full stack with Compose and Docker Hub |
 | [django-rest-api](https://github.com/MohammedAMohsen/django-rest-api) | Django REST Framework: one API that covers the framework end to end |
 | [multi-tenant-saas-course](https://github.com/MohammedAMohsen/multi-tenant-saas-course) | Designing SaaS and multi-tenant systems: 2 phases, 20 lessons |
 
